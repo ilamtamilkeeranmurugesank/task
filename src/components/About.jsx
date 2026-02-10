@@ -1,10 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import task from "../components/images/task.jpg"
 const About = () => {
   return (
    <>
    <div className='abtop'>
-    {/* <img src="" alt="" /> */}
+    <img className='./components/images/task.jpg' src="./" alt="image" />
     <h2>About</h2>
 
 

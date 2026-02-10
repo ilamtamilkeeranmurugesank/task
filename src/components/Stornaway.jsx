@@ -26,7 +26,7 @@ const Stornaway = () => {
 
             </div>
         <div className='btn2'>
-            <button className='btn3' type='button'>See More</button>
+            <button className='btn1' type='button'>See More</button>
         </div>
         <div className='content'>
             <div className='section1'>

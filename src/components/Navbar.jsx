@@ -4,17 +4,17 @@ const Navbar = () => {
   return (
     <>
     <div className='top'>
-        <h1><Link to="Stornaway">Stornaway</Link></h1>
+        <h1><Link to="/Stornaway">Stornaway</Link></h1>
         {/* <h1>Stornoway</h1> */}
-
+        
         <div>
             <ul>
                
                 <li><Link to="/About">About</Link></li>
                 <li><Link to="/Projects">Projects</Link></li>
                 <li><Link to="/Services">Services</Link></li>
-                <li>Careers</li>
-                <li>Contact Us</li>
+                <li><Link to="/Careers">Careers</Link></li>
+                <li><Link to="/Contact Us">Contact Us</Link></li>
             </ul>
         </div>
 
